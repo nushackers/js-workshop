@@ -77,6 +77,9 @@ l.appendChild(newNode)
 So far everything has been quite verbose. 
 Also not guranteed over older browsers.
 Enter Jquery
+
+<script type="text/javascript" src="js/jquery-2.1.0.min.js"></script>
+
 */
 > $
 ...
