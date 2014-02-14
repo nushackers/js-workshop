@@ -1,0 +1,21 @@
+.todoapp 
+{
+	width:50%;
+}
+
+.todo-input
+{
+	width: 100%
+}
+
+.done {
+	text-decoration: line-through;
+}
+
+.done .glyphicon-ok {
+	color: green;
+}
+
+.todo-item {
+	word-break: break-all;
+}
