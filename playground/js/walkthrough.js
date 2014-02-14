@@ -144,6 +144,7 @@ $(function () {
 });
 
 // action based events
+// Copy text field's input to a destination
 $(function () {
 	function copyText () {
 		var textField = $("[name='sample-input']");
